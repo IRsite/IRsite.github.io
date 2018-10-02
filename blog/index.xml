@@ -6,35 +6,17 @@
     <description>Recent content on Iain Rudge</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; Iain Rudge 2018</copyright>
-    <lastBuildDate>Thu, 26 Jul 2018 17:44:36 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 24 Jul 2018 17:44:36 -0700</lastBuildDate>
     
 	<atom:link href="https://example.com/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>More filler content</title>
-      <link>https://example.com/blog/more/</link>
-      <pubDate>Thu, 26 Jul 2018 17:44:36 -0700</pubDate>
-      
-      <guid>https://example.com/blog/more/</guid>
-      <description>Lorem Ipsum Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus auctor, ex sit amet condimentum placerat, neque dolor facilisis purus, in elementum ex urna at ante. Praesent turpis leo, auctor at justo vel, dignissim imperdiet tellus. Vivamus nec orci luctus, pharetra mauris eget, tristique ligula. Integer elit lorem, blandit ut eros et, efficitur aliquet dui. Aenean sed orci lorem. Nulla facilisi. Cras sollicitudin odio eu erat sollicitudin, sit amet volutpat risus condimentum.</description>
-    </item>
-    
-    <item>
-      <title>Another blog post this is</title>
-      <link>https://example.com/blog/second/</link>
-      <pubDate>Wed, 25 Jul 2018 17:44:36 -0700</pubDate>
-      
-      <guid>https://example.com/blog/second/</guid>
-      <description>Lorem Ipsum Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus auctor, ex sit amet condimentum placerat, neque dolor facilisis purus, in elementum ex urna at ante. Praesent turpis leo, auctor at justo vel, dignissim imperdiet tellus. Vivamus nec orci luctus, pharetra mauris eget, tristique ligula. Integer elit lorem, blandit ut eros et, efficitur aliquet dui. Aenean sed orci lorem. Nulla facilisi. Cras sollicitudin odio eu erat sollicitudin, sit amet volutpat risus condimentum.</description>
-    </item>
-    
-    <item>
       <title>Weekly Project I</title>
-      <link>https://example.com/blog/first/</link>
+      <link>https://example.com/blog/project1/</link>
       <pubDate>Tue, 24 Jul 2018 17:44:36 -0700</pubDate>
       
-      <guid>https://example.com/blog/first/</guid>
+      <guid>https://example.com/blog/project1/</guid>
       <description>Background The purpose of these weekly projects is to act as a way for me to learn new skills, refine skills or just work on something small that I am interested in. As I am not spending a great deal of time on them they may not be the cleanest or most effcient, but I hope that through them I can grow my skills in mathematics, computer science and robotics.</description>
     </item>
     

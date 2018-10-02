@@ -3,28 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/blog/more/</loc>
-    <lastmod>2018-07-26T17:44:36-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/blog/second/</loc>
-    <lastmod>2018-07-25T17:44:36-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/blog/first/</loc>
+    <loc>https://example.com/blog/project1/</loc>
     <lastmod>2018-07-24T17:44:36-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/</loc>
-    <lastmod>2018-07-26T17:44:36-07:00</lastmod>
+    <lastmod>2018-07-24T17:44:36-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/blog/</loc>
-    <lastmod>2018-07-26T17:44:36-07:00</lastmod>
+    <lastmod>2018-07-24T17:44:36-07:00</lastmod>
   </url>
   
   <url>

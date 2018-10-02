@@ -150,7 +150,7 @@
     
 
     <div class="post-style" itemprop="articleBody">
-      Predator Prey models
+      A short project on Predator Prey models using numerical analysis
       
 
 <p><h2>Background</h2>
@@ -203,15 +203,7 @@ where:</p>
 
 <p>We can solve the system of equations numerically using numerical methods in python, typically this would be done using scipy and the built in ODE solvers, but I have opted to implement Runge-Kutta 45 with an optional step size optimiser. This is more as a learning opportunity and is probably not as effcient as doing it like a normal person would.</p>
 
-<p>The RKF45 method is implemented in the below class
-        if self.t &gt;= self.stop:
-            return(False)
-        self.calculate_Ks()
-        u_next,v_next = self.step4()
-        self.u_data.append(self.u)
-        self.v_data.append(self.v)
-        self.u = u_next
-        self.v = v_next</p>
+<p>This can be easily imlpemented and I should really link the code through git since it is le messy</p>
 
     </div>
 
